@@ -1,20 +1,38 @@
-# pagina-cadastro
- Projeto página de cadastro
+<h1 align="center"> pagina-cadastro </h1>
 
-# Sobre
-O projeto foi desenvolvido com base na vídeo aulas do canal girlcoding e do canal dicas para devs com o objetivo de criar uma página de cadastro em um site aplicando validação garantindo que os dados solicitados nos campos sejam preenhidos e também aplicando a responsividade na página.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-# Versão para Desktop:
-![image](https://user-images.githubusercontent.com/68343463/156856397-189db5b6-aac0-4581-8fbc-62b7dd99e1ed.png)
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
+<br>
 
-# Versão para Mobile:
-![image](https://user-images.githubusercontent.com/68343463/156856820-bb282e48-e384-4872-bcad-8252154949fe.png)
+<p align="center">
+<h1>Desktop:</h1>
+  <img alt="calendario da copa" src=".github/desktop.png" width="100%">
 
+<h1>Mobile:<h1/>
+  <img alt="calendario da copa" src=".github/mobile.png" width="30%">
+</p>
 
-# Tecnologias utilizadas
-* HTML
-* CSS
-* Javascript
+## 🚀 Tecnologias
 
-Resultado final: https://marcelohenriquedoriafigueiredo.github.io/pagina-cadastro/
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+
+## 💻 Projeto
+
+O projeto foi desenvolvido com base na vídeo aulas do canal  <a href="https://www.youtube.com/c/GirlCoding"> Girl Coding</a> e do canal <a href="https://www.youtube.com/c/dicasparadevs">Dicas para devs</a> com o objetivo de criar uma página de cadastro em um site aplicando validação garantindo que os dados solicitados nos campos sejam preenhidos e também aplicando a responsividade na página.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
