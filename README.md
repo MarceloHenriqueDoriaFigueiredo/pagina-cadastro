@@ -14,10 +14,10 @@
 
 <p align="center">
 <h1>Desktop:</h1>
-  <img alt="calendario da copa" src=".github/desktop.png" width="100%">
+  <img alt="pagina de cadastro" src=".github/desktop.png" width="100%">
 
 <h1>Mobile:<h1/>
-  <img alt="calendario da copa" src=".github/mobile.png" width="30%">
+  <img alt="pagina de cadastro" src=".github/mobile.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
